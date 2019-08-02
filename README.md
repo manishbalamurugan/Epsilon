@@ -1,4 +1,5 @@
-# ![](https://epsilonacademics.org/user/themes/hola/images/logo/finlogo.png | width=100 )
+
+![](https://epsilonacademics.org/user/themes/hola/images/logo/finlogo.png | width=100 )
 
 # Epsilon Academics was made using Grav. 
 
