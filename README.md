@@ -1,5 +1,5 @@
 
-![](https://epsilonacademics.org/user/themes/hola/images/logo/finlogo.png =250x250 )
+![](https://epsilonacademics.org/user/themes/hola/images/logo/finlogo.png)
 
 # Epsilon Academics was made using Grav. 
 
