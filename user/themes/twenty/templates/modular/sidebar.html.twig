@@ -1,0 +1,33 @@
+<section class="wrapper style4 container">
+    {% if page.header.sidebar_position != 'none' %}
+        <div class="row 150%">
+        {% endif %}     
+        {% if page.header.sidebar_position == 'left' %}
+            {% if page.header.sidebar_position != 'none' %}
+                {% include 'partials/sidebar_content.html.twig' %}
+            {% endif %}
+            {% if page.header.sidebar_position != 'none' %}
+                <div class="8u 12u(narrower) important(narrower)">
+            {% endif %}    
+                {% include 'partials/sidebar_article.html.twig' %}
+            {% if page.header.sidebar_position != 'none' %}
+                </div>
+            {% endif %}
+        {% endif %}
+
+        {% if page.header.sidebar_position == 'right' or page.header.sidebar_position == 'none' %}
+            {% if page.header.sidebar_position != 'none' %}
+                <div class="8u 12u(narrower)">
+            {% endif %}     
+                {% include 'partials/sidebar_article.html.twig' %}
+            {% if page.header.sidebar_position != 'none' %}
+                </div>
+            {% endif %}
+            {% if page.header.sidebar_position != 'none' %}
+                {% include 'partials/sidebar_content.html.twig' %}
+            {% endif %}
+        {% endif %}
+        {% if page.header.sidebar_position != 'none' %}
+        </div>
+    {% endif %}
+</section>

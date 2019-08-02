@@ -1,0 +1,13 @@
+name: Hola Site
+version: 1.1.2
+description: Hola skeleton based on Hola theme is a sample vCard website content. 
+icon:  id-card-o
+author:
+  name: Devlom
+  email: info@devlom.com
+  url: https://devlom.com
+homepage: https://devlom.com/en/blog/hola-stylish-grav-theme
+demo: http://demo.devlom.com/grav/hola/
+keywords: hola, theme, styleshout, vcard, devlom, responsive, html5, css3, skeleton
+bugs: https://github.com/devlom/grav-skeleton-hola/issues
+license: MIT
