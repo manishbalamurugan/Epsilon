@@ -1,6 +1,6 @@
-# ![](https://epsilonacademics.org/user/themes/hola/images/logo/finlogo.png) 
+# ![](https://epsilonacademics.org/user/themes/hola/images/logo/finlogo.png | width=100 )
 
-Epsilon Academics was made using Grav. 
+# Epsilon Academics was made using Grav. 
 
 [![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/cfd20465-d0f8-4a0a-8444-467f5b5f16ad/mini.png)](https://insight.sensiolabs.com/projects/cfd20465-d0f8-4a0a-8444-467f5b5f16ad)
